@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @mathzdev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Matheus Lúcio - @mathzdev
 
-<!---
-mathzdev/mathzdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a software engineer with more than 9 years of experience in the technology area, having worked in several companies with projects in the public sector and also in the private sector.
+
+* GITLAB CERTIFIED ASSOCIATE - 2022
+* ORACLE CLOUD INFRASTRUCTURE FOUNDATIONS 2021 ASSOCIATE - 2022
