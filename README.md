@@ -51,15 +51,18 @@ Experienced conjurer of cloud-native systems — from **COBOL-to-Java migrations
 
 ## 📜 Credentials of the Realm
 
-🎓 Master's — Digital Marketing & Big Data · Postgrad — Software Engineering & Architecture · B.S. — Information Systems
+🎓 **Master's — Digital Marketing & Big Data** · Postgrad — Software Engineering & Architecture · B.S. — Information Systems
+
 🏅 **AWS Certified Solutions Architect – Associate** · GitLab Certified Git Associate · OCI Foundations Associate · Scrum Fundamentals
 
 ---
 
 ## 📊 GitHub Stats
 
-![Matheus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathzdev&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mathzdev&layout=compact&theme=tokyonight&hide_border=true)
+![Matheus' GitHub Stats](https://github-stats-extended.vercel.app/api?username=mathzdev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=mathzdev&layout=compact&theme=tokyonight&hide_border=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=mathzdev&theme=tokyonight&hide_border=true)
 
 ---
